@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi 👋, this is rikicavaz's Batcave 🐸
 
-<!--
-**Rikicavaz77/Rikicavaz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web** 🌍 is my **Twin Peaks** 🏨, both in the positive (🔲White Lodge🔲) and negative (🔳Black Lodge🔳) meaning.
 
-Here are some ideas to get you started:
+## I've worked with 
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,bootstrap,mysql,postgres,sqlite,vscode,visualstudio,git,github,githubactions,gitlab,java,c,cs,cpp,sublime,wordpress,cmake,qt,regex,gmail,instagram,discord,twitter,linkedin,stackoverflow,codepen,windows,linux,maven,matlab,notion,powershell,unity,eclipse,atom,androidstudio,apple)](https://github.com/Rikicavaz77)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+Currently student of Computer Science 💻 at the University of Padua, interested in Web design 🐒, Web development 🐴 and Web accessibility 🐐.
+
+## I'll work with
+[![My Skills](https://skillicons.dev/icons?i=latex,py,docker,flask,vue,react,angular,nodejs)](https://github.com/Rikicavaz77)
+
+##
+### Big news Coming Soon... 🔜
+
+I'm trying to be the Dale Cooper 🎺 of the Internet 🌐, but with the foresight of the Log Lady 🌲.
+
+##
+### GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rikicavaz77&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&count_private=true&theme=gruvbox&rank_icon=github)](https://github.com/Rikicavaz77)
