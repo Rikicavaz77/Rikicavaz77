@@ -19,3 +19,9 @@ I'm trying to be the Dale Cooper 🎺 of the Internet 🌐, but with the foresig
 ##
 ### GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rikicavaz77&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&hide=stars&count_private=true&theme=gruvbox&rank_icon=github)](https://github.com/Rikicavaz77)
+
+## 
+External References
+- [W3C](https://www.w3.org/)
+- [Deque](https://www.deque.com/)
+- [TPGi](https://www.tpgi.com/)
