@@ -12,7 +12,7 @@ Currently student of Computer Science 💻 at the University of Padua, intereste
 [![My Skills](https://skillicons.dev/icons?i=latex,py,docker,flask,vue,react,angular,nodejs)](https://github.com/Rikicavaz77)
 
 ##
-### Big news Coming Soon... 🔜
+### Coming Soon... 🔜
 
 I'm trying to be the Dale Cooper 🎺 of the Internet 🌐, but with the foresight of the Log Lady 🌲.
 
