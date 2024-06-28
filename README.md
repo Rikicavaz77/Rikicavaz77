@@ -1,6 +1,6 @@
 # Hi 👋, this is rikicavaz's Batcave 🐸
 
-**Web** 🌍 is my **Twin Peaks** 🏨, both in the positive (🔲White Lodge🔲) and negative (🔳Black Lodge🔳) meaning.
+**Web** 🌍 is my **Twin Peaks** 🏨.
 
 ## I've worked with 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,bootstrap,mysql,postgres,sqlite,vscode,visualstudio,git,github,githubactions,gitlab,java,c,cs,cpp,sublime,wordpress,cmake,qt,regex,gmail,instagram,discord,twitter,linkedin,stackoverflow,codepen,windows,linux,maven,matlab,notion,powershell,unity,eclipse,atom,androidstudio,apple)](https://github.com/Rikicavaz77)
