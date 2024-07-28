@@ -22,7 +22,7 @@ I'm trying to be the Dale Cooper 🎺 of the Internet 🌐, but with the foresig
 
 ## Linguaggi di Programmazione Utilizzati
 
-![Top Linguaggi](https://img.shields.io/github/languages/top/{owner}/{repo})
+![Top Linguaggi](https://img.shields.io/github/languages/top/Rikicavaz77)
 
 ## 
 External References
