@@ -3,13 +3,13 @@
 **Web** 🌍 is my **Twin Peaks** 🏨.
 
 ## I've worked with 
-[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,bootstrap,mysql,postgres,sqlite,vscode,visualstudio,git,github,githubactions,gitlab,java,c,cs,cpp,sublime,wordpress,cmake,qt,regex,gmail,instagram,discord,twitter,linkedin,stackoverflow,codepen,windows,linux,maven,matlab,notion,powershell,unity,eclipse,atom,androidstudio,apple)](https://github.com/Rikicavaz77)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,bootstrap,mysql,postgres,sqlite,vscode,visualstudio,git,github,githubactions,gitlab,java,c,cs,cpp,sublime,wordpress,cmake,qt,regex,gmail,instagram,discord,twitter,linkedin,stackoverflow,codepen,windows,linux,maven,matlab,notion,powershell,unity,eclipse,atom,androidstudio,apple,latex,py,docker,vue,nodejs,fastapi)](https://github.com/Rikicavaz77)
 
 ##
 Currently student of Computer Science 💻 at the University of Padua, interested in Web design 🐒, Web development 🐴 and Web accessibility 🐐.
 
 ## I'll work with
-[![My Skills](https://skillicons.dev/icons?i=latex,py,docker,flask,vue,react,angular,nodejs)](https://github.com/Rikicavaz77)
+[![My Skills](https://skillicons.dev/icons?i=flask,react,angular)](https://github.com/Rikicavaz77)
 
 ##
 ### Coming Soon... 🔜
