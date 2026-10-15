@@ -1,6 +1,6 @@
-# Hi 👋, this is rikicavaz's Batcave 🐸
+# Hi 👋, I'm rikicavaz 🐎
 
-**Web** 🌍 is my **Twin Peaks** 🏨.
+I live in **Twin Peaks** 🪵.
 
 ## I've worked with 
 [![My Skills](https://skillicons.dev/icons?i=html,css,php,js,jquery,bootstrap,mysql,postgres,sqlite,vscode,visualstudio,git,github,githubactions,gitlab,java,c,cs,cpp,sublime,wordpress,cmake,qt,regex,gmail,instagram,discord,twitter,linkedin,stackoverflow,codepen,windows,linux,maven,matlab,notion,powershell,unity,eclipse,atom,androidstudio,apple,latex,py,docker,vue,nodejs,fastapi)](https://github.com/Rikicavaz77)
@@ -13,8 +13,6 @@ Currently student of Computer Science 💻 at the University of Padua, intereste
 
 ##
 ### Coming Soon... 🔜
-
-I'm trying to be the Dale Cooper 🎺 of the Internet 🌐, but with the foresight of the Log Lady 🌲.
 
 ##
 ### GitHub Stats
